@@ -2,6 +2,8 @@ const { combineStats, addBackGunner } = require('../facilitators.js');
 const { base, gunCalcNames, statnames, smshskl } = require('../constants.js');
 const g = require('../gunvals.js');
 
+const lol;
+
 module.exports = ({ Class }) => {
 
 // BASIC TANK AND UPGRADES
