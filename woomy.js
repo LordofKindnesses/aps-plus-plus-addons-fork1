@@ -13,6 +13,7 @@ g.lance = {
 }
 
 module.exports = ({ Class }) => {
+  // return
 
 // POLYGONS
 Class.woomyAlphaPentagon = {
